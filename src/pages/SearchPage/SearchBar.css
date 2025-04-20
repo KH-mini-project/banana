@@ -1,7 +1,5 @@
 /* 1rem은 보통 16px, 즉 1.5rem이면 약 24px 정도 여백 */
-*{
-    background-color: rgb(248, 249, 250);
-}
+
 .search-container{
     display: flex;
     flex-direction: column;
